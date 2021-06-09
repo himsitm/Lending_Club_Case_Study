@@ -1,1 +1,1 @@
-# Lending_Club_Study
+# Lending_Club_Case_Study
